@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+.vscode
+
+# Dataset (downloaded automatically by torchvision)
+data/
+
+# Generated files
+runs/
+outputs/feature_maps/
+
+exercices/
