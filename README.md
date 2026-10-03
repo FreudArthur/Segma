@@ -10,7 +10,7 @@ Un cours pas à pas pour comprendre la **segmentation d'images** : des méthodes
 
 ### Où on va
 
-À la fin du parcours, tu auras entraîné un U-Net qui découpe les chiens et les chats pixel par pixel. Voici ce qu'il donne sur des photos qu'il n'a jamais vues :
+On entraine un U-Net qui découpe les chiens et les chats pixel par pixel. Voici ce qu'il donne sur des photos qu'il n'a jamais vues :
 
 ![U-Net avec skip connections](outputs/unet_with_skip.png)
 
@@ -96,7 +96,7 @@ A step-by-step course to understand **image segmentation**: from classic methods
 
 ### Where we're going
 
-By the end of the course, you'll have trained a U-Net that cuts out dogs and cats pixel by pixel. Here is what it does on photos it has never seen:
+We'll trained U-Net that cuts out dogs and cats pixel by pixel. Here is what it does on photos it has never seen:
 
 ![U-Net with skip connections](outputs/unet_with_skip.png)
 
