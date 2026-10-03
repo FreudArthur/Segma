@@ -9,6 +9,6 @@ data/
 
 # Generated files
 runs/
-outputs/feature_maps/
+outputs/
 
 exercises/
